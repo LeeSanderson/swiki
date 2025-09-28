@@ -57,5 +57,6 @@ Core Runtime
 - Aspire .NET 9 based solution for easy start up and developer experience.
 - Azure Function for backend logic with scalable cost-effective API.
 - Blazor WebAssembly for frontend.
+- Testing with XUnit, FluentAssertions, NSubstitute and BUnit (front end)
 - Podman for local development running Gremlin Server for Graph Database and SQL server for generate database (e.g. auth)
 - Production cloud infrastructure replaces Gremlin Server with Azure Cosmos DB (Graph API) and SQL server with Azure SQL server.
